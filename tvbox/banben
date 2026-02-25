@@ -1,0 +1,95 @@
+[
+    {
+        "name": "推荐",
+        "list": [
+            {
+                "name": "关于",
+                "url": "",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg",
+                "version": " "
+            }
+        ]
+    },
+    {
+        "name": "本地包",
+        "list": [
+            {
+                "name": "当前版本",
+                "url": "",
+                "icon": "http://127.0.0.1:9978/file/TVBoxOSC/tvbox/.版本.png",
+                "version": ""
+            },
+            {
+                "name": "猫猫",
+                "url": "https://gitee.com/tvdizhi/local-package/raw/master/%E7%8C%AB%E7%8C%AB.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png",
+                "version": "version"
+            },
+            {
+                "name": "多多",
+                "url": "https://gitee.com/tvdizhi/local-package/raw/master/%E5%A4%9A%E5%A4%9A.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png",
+                "version": "version"
+            },
+            {
+                "name": "巧记",
+                "url": "https://gitee.com/tvdizhi/local-package/raw/master/%E5%B7%A7%E8%AE%B0.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png",
+                "version": "version"
+            },
+            {
+                "name": "我不是摸鱼",
+                "url": "https://gitee.com/tvdizhi/local-package/raw/master/%E6%88%91%E4%B8%8D%E6%98%AF%E6%91%B8%E9%B1%BC.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png",
+                "version": "version"
+            },
+            {
+                "name": "王小二",
+                "url": "https://gitee.com/tvdizhi/local-package/raw/master/%E7%8E%8B%E5%B0%8F%E4%BA%8C.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png",
+                "version": "version"
+            },
+            {
+                "name": "肥猫",
+                "url": "https://gitee.com/tvdizhi/local-package/raw/master/%E8%82%A5%E7%8C%AB.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png",
+                "version": "version"
+            },
+            {
+                "name": "饭太硬",
+                "url": "https://gitee.com/tvdizhi/local-package/raw/master/%E9%A5%AD%E5%A4%AA%E7%A1%AC.zip",
+                "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/UwcH/800X800/single.png",
+                "version": "version"
+            }
+        ]
+    },
+    {
+        "name": "猫猫影视",
+        "list": [
+            {
+                "name": "手机端",
+                "url": "https://app.xn--p3tz25ba362u.cn/updates/apk/mobile-arm64_v8a.apk",
+                "icon": "https://app.xn--p3tz25ba362u.cn/updates/maomao.png",
+                "version": "5.2.0(64位)"
+            },
+            {
+                "name": "手机端",
+                "url": "https://app.xn--p3tz25ba362u.cn/updates/apk/mobile-armeabi_v7a.apk",
+                "icon": "https://app.xn--p3tz25ba362u.cn/updates/maomao.png",
+                "version": "5.2.0(32位)"
+            },
+            {
+                "name": "电视端",
+                "url": "https://app.xn--p3tz25ba362u.cn/updates/apk/leanback-arm64_v8a.apk",
+                "icon": "https://app.xn--p3tz25ba362u.cn/updates/maomao.png",
+                "version": "5.2.0(64位)"
+            },
+            {
+                "name": "电视端",
+                "url": "https://app.xn--p3tz25ba362u.cn/updates/apk/leanback-armeabi_v7a.apk",
+                "icon": "https://app.xn--p3tz25ba362u.cn/updates/maomao.png",
+                "version": "5。2.0(32位)"
+            }
+        ]
+    }
+]
