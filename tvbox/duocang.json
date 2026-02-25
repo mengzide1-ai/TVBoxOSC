@@ -1,1 +1,36 @@
-
+{
+    "urls": [
+        {
+            "url": "https://gitee.com/tvdizhi/tvbox-ziyuan/raw/master/source.json",
+            "name": "公众号|猫猫聚合工具"
+        },
+        {
+            "url": "http://www.饭太硬.net/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://9280.kstore.vip/newwex.json",
+            "name": "王二小"
+        },
+        {
+            "url": "http://hello.肥猫.com",
+            "name": "肥猫"
+        },
+        {
+            "url": "https://yydsys.top/duo",
+            "name": "多多"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "我不是摸鱼"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "巧记"
+        },
+        {
+            "url": "https://sscq-pay.kingnet.com/static/test.json",
+            "name": "小米"
+        }
+    ]
+}
