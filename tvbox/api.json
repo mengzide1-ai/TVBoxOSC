@@ -10,6 +10,16 @@
             "api": "csp_Douban",
             "searchable": 0
         },
+         {
+            "key": "版本信息",
+            "name": "版本｜信息",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "ext": "https://gitee.com/tvdizhi/tvbox-ziyuan/raw/master/single.json"
+        },
         {
             "key": "配置中心",
             "name": "配置｜中心",
@@ -1710,16 +1720,6 @@
             }
         },
         {
-            "key": "版本信息",
-            "name": "版本｜信息",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "ext": "https://pizazz.s3.bitiful.net/single.json"
-        },
-        {
             "key": "push_agent",
             "name": "手机｜推送",
             "type": 3,
@@ -1730,7 +1730,22 @@
         }
     ],
     "lives": [
-        {}
+          {
+      "name": "国内频道",
+      "type": 0,
+      "url": "https://app.xn--p3tz25ba362u.cn/tvbox221/tvbox-sources.txt",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+        {
+      "name": "备用",
+      "type": 0,
+      "url": "http://wwe.lemetu.com:81/rclou-cn/lemetu/itvlist.txt",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    }
     ],
     "parses": [
         {
@@ -2128,4 +2143,5 @@
     "ads": [
         "static-mozai.4gtv.tv"
     ]
+
 }
