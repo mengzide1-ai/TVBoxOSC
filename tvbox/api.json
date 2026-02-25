@@ -884,6 +884,80 @@
             "filterable": 1,
             "类型": "短剧"
         },
+            {
+      "api": "https://app.xn--p3tz25ba362u.cn/tvbox221/py/七猫短剧.py",
+      "filterable": 1,
+      "key": "py_七猫短剧",
+      "name": "🌽七猫｜短剧",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "https://app.xn--p3tz25ba362u.cn/tvbox221/py/喜福短剧.py",
+      "filterable": 1,
+      "key": "py_喜福短剧",
+      "name": "🌽喜福｜短剧",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "https://app.xn--p3tz25ba362u.cn/tvbox221/py/碎片短剧.py",
+      "filterable": 1,
+      "key": "py_碎片短剧",
+      "name": "🌽碎片｜短剧",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "https://app.xn--p3tz25ba362u.cn/tvbox221/py/热播短剧.py",
+      "filterable": 1,
+      "key": "py_热播短剧",
+      "name": "🌽热播｜短剧",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "api": "https://app.xn--p3tz25ba362u.cn/tvbox221/py/五五短剧.py",
+      "filterable": 1,
+      "key": "py_五五短剧",
+      "name": "🌽五五｜短剧",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "cj_旺旺采集",
+      "name": "🌽旺旺｜短剧",
+      "type": 1,
+      "api": "https://api.wwzy.tv/api.php/provide/vod/"
+    },
+        {
+  "key": "全能短剧",
+  "name": "🌽AI｜短剧",
+  "type": 3,
+  "api": "csp_DuanJuCen",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": {
+    "classes": "https://app.xn--p3tz25ba362u.cn/tvbox221/json/duanjucen.json"
+  },
+  "jar": "https://app.xn--p3tz25ba362u.cn/tvbox221/vox.jar"
+},
+{
+  "key": "VOX聚合短剧",
+  "name": "🌽聚合｜短剧",
+  "type": 3,
+  "api": "csp_JuheShortDrama",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "jar": "https://app.xn--p3tz25ba362u.cn/tvbox221/vox.jar"
+}, 
         {
             "key": "锦鲤短剧",
             "name": "锦鲤｜短剧",
@@ -1733,7 +1807,7 @@
           {
       "name": "国内频道",
       "type": 0,
-      "url": "https://app.xn--p3tz25ba362u.cn/tvbox221/tvbox-sources.txt",
+      "url": "./tvbox-sources.txt",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
@@ -2145,3 +2219,4 @@
     ]
 
 }
+
