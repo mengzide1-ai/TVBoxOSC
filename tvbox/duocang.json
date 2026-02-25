@@ -1,8 +1,8 @@
 {
     "urls": [
         {
-            "url": "https://gitee.com/tvdizhi/tvbox-ziyuan/raw/master/source.json",
-            "name": "公众号|猫猫聚合工具"
+            "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/mengzide1-ai/TVBoxOSC/refs/heads/main/tvbox/api.json",
+            "name": "猫猫"
         },
         {
             "url": "http://www.饭太硬.net/tv",
