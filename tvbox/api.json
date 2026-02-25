@@ -18,7 +18,7 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "ext": "https://gitee.com/tvdizhi/tvbox-ziyuan/raw/master/single.json"
+            "ext": "./banben.json"
         },
         {
             "key": "配置中心",
@@ -2219,4 +2219,5 @@
     ]
 
 }
+
 
