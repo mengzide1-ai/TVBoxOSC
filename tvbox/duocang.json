@@ -2,35 +2,35 @@
     "urls": [
         {
             "url": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/mengzide1-ai/TVBoxOSC/refs/heads/main/tvbox/api.json",
-            "name": "猫猫"
+            "name": "猫太狼（推荐）"
         },
         {
             "url": "http://www.饭太硬.net/tv",
-            "name": "饭太硬"
+            "name": "饭太硬接口"
         },
         {
             "url": "https://9280.kstore.vip/newwex.json",
-            "name": "王二小"
+            "name": "王二小接口"
         },
         {
             "url": "http://hello.肥猫.com",
-            "name": "肥猫"
+            "name": "肥猫接口"
         },
         {
             "url": "https://yydsys.top/duo",
-            "name": "多多"
+            "name": "多多接口"
         },
         {
             "url": "http://我不是.摸鱼儿.com",
-            "name": "我不是摸鱼"
+            "name": "我不是摸鱼接口"
         },
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "巧记"
+            "name": "巧记接口"
         },
         {
             "url": "https://sscq-pay.kingnet.com/static/test.json",
-            "name": "小米"
+            "name": "小米接口"
         }
     ]
 }
