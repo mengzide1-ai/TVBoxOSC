@@ -1,6 +1,10 @@
 {
     "urls": [
         {
+            "url": "https://www.xn--h5qa341o.top/ok/api.json",
+            "name": "猫猫推荐接口"
+        },
+        {
             "url": "http://www.饭太硬.net/tv",
             "name": "饭太硬接口"
         },
